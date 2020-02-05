@@ -1,6 +1,4 @@
-﻿using System.Security.Cryptography.X509Certificates;
-
-namespace Kata._7_kyu_kata
+﻿namespace Kata._7_kyu_kata
 {
     //https://www.codewars.com/kata/56606694ec01347ce800001b
     public class Kata_7_1
