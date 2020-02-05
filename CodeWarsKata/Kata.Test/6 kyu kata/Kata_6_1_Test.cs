@@ -3,7 +3,7 @@ using Xunit;
 
 namespace Kata.Test._6_kyu_kata
 {
-    public class Kata_7_1_Test
+    public class Kata_6_1_Test
     {
         [Fact]
         public void ExactlyFoundMissingCharacter()
