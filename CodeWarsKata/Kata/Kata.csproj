@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="6 kyu kata\" />
+    <Folder Include="4 kyu kata\" />
+    <Folder Include="3 kyu kata\" />
+    <Folder Include="1 kyu kata\" />
+    <Folder Include="2 kyu kata\" />
+    <Folder Include="5 kyu Kata\" />
+    <Folder Include="8 kyu kata\" />
+  </ItemGroup>
+
+</Project>
