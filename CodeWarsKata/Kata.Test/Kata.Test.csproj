@@ -55,6 +55,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="5 kyu Kata\Kata_5_1_Test.cs" />
     <Compile Include="6 kyu kata\Kata_6_2_Test.cs" />
     <Compile Include="6 kyu kata\Kata_6_1_Test.cs" />
     <Compile Include="6 kyu kata\Kata_6_3_Test.cs" />
@@ -73,7 +74,6 @@
     <Folder Include="2 kyu kata\" />
     <Folder Include="3 kyu kata\" />
     <Folder Include="4 kyu kata\" />
-    <Folder Include="5 kyu Kata\" />
     <Folder Include="8 kyu kata\" />
   </ItemGroup>
   <ItemGroup>
