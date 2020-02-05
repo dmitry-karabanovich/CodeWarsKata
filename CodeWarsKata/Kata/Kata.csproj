@@ -5,7 +5,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="6 kyu kata\" />
     <Folder Include="4 kyu kata\" />
     <Folder Include="3 kyu kata\" />
     <Folder Include="1 kyu kata\" />

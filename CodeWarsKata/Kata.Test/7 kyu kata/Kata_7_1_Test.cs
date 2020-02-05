@@ -3,7 +3,7 @@ using Xunit;
 
 namespace Kata.Test._7_kyu_kata
 {
-    public class Kata1Test
+    public class Kata_7_1_Test
     {
         [Theory]
         [InlineData(3,5,7)]
@@ -11,7 +11,7 @@ namespace Kata.Test._7_kyu_kata
         [InlineData(2,5,6)]
         public void IsTriangle_ValidPostiveNumbers_ReturnsTrue(int a, int b, int c)
         {
-            Assert.True(Kata1.IsTriangle(a, b, c));
+            Assert.True(Kata_7_1.IsTriangle(a, b, c));
         }
 
         [Theory]
@@ -20,7 +20,7 @@ namespace Kata.Test._7_kyu_kata
         [InlineData(3, 2, 1)]
         public void IsTriangle_ValidPostiveNumbers_ReturnsFalse(int a, int b, int c)
         {
-            Assert.False(Kata1.IsTriangle(a, b, c));
+            Assert.False(Kata_7_1.IsTriangle(a, b, c));
         }
 
     }
